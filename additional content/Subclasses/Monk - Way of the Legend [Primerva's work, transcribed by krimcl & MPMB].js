@@ -240,7 +240,7 @@ SpellsList["energy ball"] = {
 	components : "V,S",
 	duration : "1 round",
 	description : "Ranged Spell attack for 1d6 Necrotic dmg; on miss floats above ground till start of next turn and deals 1d6 if touched; an ally can use action to attack a creature in range using your spell attack bonus, +1d6 at CL 5, 11, and 17",
-	descriptionShorter : "Ranged spell atack 1d6 Necrotic dmg, persists on miss, dmg on touch, ally action to attack w your spell attack bonus"
+	descriptionShorter : "Ranged spell atack 1d6 Necrotic dmg, persists on miss, dmg on touch, ally action to attack w your spell attack bonus",
 	descriptionFull : "You summon a purple orb of energy with special qualities. The orb is roughly 1 foot by 1 foot in size and glows purple in color. When you summon it, make a ranged spell attack on a creature within range. On a hit, a creature takes 1d6 Necrotic damage. If it misses, the orb floats just above the ground until the start of your next turn. If a creature touches the orb before it disappears, it takes 1d6 Necrotic damage. Additionally, an allied creature can use their action to attack a creature within range with the orb. This attack uses your spell attack bonus. This spell’s damage increases by 1d6 when you reach 5th level (2d6), 11th level (3d6), and 17th level (4d6)."
 };
 // Add weapons (attack cantrips)
