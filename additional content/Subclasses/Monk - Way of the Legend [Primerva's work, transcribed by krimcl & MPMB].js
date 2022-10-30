@@ -246,7 +246,7 @@ SpellsList["energy ball"] = {
 // Add weapons (attack cantrips)
 //example start of weapon list (delete later or change)
 WeaponsList["lightning lure"] = {
-	regExpSearch : /^(?=.*lightning)(?=.*lure).*$/i,
+	regExpSearch : /^(?=.*lightning)(?=.*lure).*$/i,.
 	name : "Lightning Lure",
 	source : [["T", 107], ["S", 143]],
 	list : "spell",
